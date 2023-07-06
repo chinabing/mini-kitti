@@ -1,1 +1,1 @@
-Speaker recognition is composed of speaker identification, speaker verification and speaker diarization.
+kitti数据集的mini版本，训练集和测试集各选取100个样本，用于跑通流程。
